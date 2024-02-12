@@ -1,0 +1,273 @@
+body {
+    margin: 0;
+  }
+
+  p{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-size: 40px;}
+
+  .header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    font-family: 'Inter', sans-serif;
+    justify-content: space-around;
+    padding-bottom: 40px;
+    
+  
+    background: black;
+  }
+  
+  a {
+    text-decoration: none!important;
+  }
+
+  .auth {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 22px;
+  }
+  
+  .auth a {
+    color: white;
+  }
+  
+  .padding {
+    padding: 20px 100px 0;
+  }
+  
+  .logo{
+    width: auto;
+    display: flex;
+  }
+
+  .breaker {
+    width: 2px;
+    height: 25px;
+    background-color: #ffffff ;
+    
+  }
+
+
+.intro {
+
+    background: black;
+    width: 100%;
+
+  
+    display: grid;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;}
+
+    .search input {
+
+        padding: 10px 35px;
+        border-radius: 15px;
+    }
+    
+    .search button {
+    
+        padding: 10px 35px;
+        border-radius: 15px;
+    }
+
+    .mininav {
+        background-color: #5C00A4;
+        display: flex;
+        justify-content: center;
+        gap: 35px;
+        padding: 12px 0;
+        font-size: 24px;
+        text-transform: uppercase;
+       
+      }
+
+      .error{
+
+        display: grid;
+        align-items: center;
+        justify-items: center;
+    }
+
+
+      .weekchart{
+        width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 80px;
+    
+      }
+    
+      
+    
+    .stick{
+      position: relative;
+      margin-top: 100px;
+      margin-bottom: 100px;
+      width: 2px;
+      height: 700px;
+      background-color: #5C00A4 ;
+    
+    }
+    .quartertop{
+      
+      background-color: #5C00A4;
+      width: 395px;
+      height: 330px;
+      max-width: 100%;
+    }
+    .quartertop h1{
+      margin: 0%;
+      font-family: 'Inter', sans-serif;
+      font-size: 80px;
+      color: #ffffff;
+    }
+    .weeklytop p{
+      max-width: 100%;
+      width: 330px;
+      height: 330px;
+      color: gray;
+      
+    }
+
+    .wez p{
+
+      font-size: 30px;}
+
+   .infocity{
+    border-top: 5px solid #5C00A4 ;
+    width: 100%;
+    margin: 0%;
+    height: auto;
+    display: grid;
+    justify-items: center;
+    background-color: #ffffff;
+
+   }
+
+
+.infocity p{
+  
+  font-size: 25px;
+    color: black;
+    
+}
+.infocity h2{
+    margin-top: 20px;
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-size: 40px;
+}
+
+
+
+
+  footer{
+    width: 100%;
+    padding: 120px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #5C00A4;
+    border-top: 20px solid black ;
+    align-items: center;
+  
+  
+  
+  }
+  
+  ul {
+    list-style: none;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-size: 25px;
+    color: white;
+  
+  }
+  
+  ul li{
+    margin-bottom: 20px;
+  }
+  
+  .sword{
+    margin-top: 80px;
+  background-color: #ffffff;
+  height: 2px;
+  width: 1300px;
+  
+  }
+
+  .sword p{
+ color: #ffffff;
+ font-size: 20px;
+  
+  }
+
+
+  .d2 p{
+    font-size: 20px;
+    
+  }
+
+
+  .d2{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    justify-items: center;}
+  
+
+   .d2 button{
+    margin-bottom: 15px;
+    border-radius: 15px;
+    padding: 0 60px;
+    background-color: #5C00A4;
+    
+
+   }
+  .formgroup {
+    display: grid;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  .form-control{
+    padding: 20px 60px;
+    border-radius: 15px;
+    font-size: 20px;
+
+  }
+  .formbut{
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+    align-content: stretch;
+    flex-direction: column;
+
+  }
+
+  .formbut p{
+    color: #ffffff;
+  }
+
+  .midwww{
+    display: grid;
+    padding: 60px 0;
+    justify-items: center;
+  }

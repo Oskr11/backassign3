@@ -1,0 +1,23 @@
+{
+  "name": "assiktri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "https": "^1.0.0",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.1.2",
+    "node-fetch": "^3.3.2",
+    "path": "^0.12.7"
+  }
+}

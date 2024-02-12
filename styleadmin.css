@@ -1,0 +1,107 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    font-family: 'Inter', sans-serif;
+    justify-content: space-around;
+    padding-bottom: 40px;
+    
+  
+    background: black;
+  }
+  
+  a {
+    text-decoration: none!important;
+  }
+
+  .auth {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 22px;
+  }
+  
+  .auth a {
+    color: white;
+  }
+  
+  .padding {
+    padding: 20px 100px 0;
+  }
+
+
+
+
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+}
+.intro {
+
+    background: black;
+    width: 100%;
+
+    padding-top: 40px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;}
+main {
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+#users,
+#weather {
+    margin-bottom: 30px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+form input,
+form button {
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}

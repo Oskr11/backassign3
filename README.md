@@ -12,7 +12,7 @@ Blinks - World Weekly Weather is a project designed to display the weekly weathe
 
 # ACCESS TO ADMIN PANEL
 - Username: aliaskar
-- Password: aliaskar
+- Password: aliaskar2591
 
 # Installation
 Clone the repository:

@@ -1,6 +1,6 @@
 # Blinks - World Weekly Weather
 
-Blinks - World Weekly Weather is a project designed to display the weekly weather forecast for cities around the world. It utilizes various APIs to gather weather data, fetch images, and provide additional information about the queried cities.
+Blinks - World Weekly Weather is a project designed to display the weather forecast for cities around the world. It utilizes various APIs to gather weather data, fetch images, and provide additional information about the queried cities.
 
 # Features
 - Weather Forecast: Displays the weather for the searched city.

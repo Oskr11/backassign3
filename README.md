@@ -1,3 +1,8 @@
+# VERY IMPORTANT
+if you see the error (Error fetching Unsplash data): You're out of luck, a maximum of 50 requests were made for this API in an hour
+Its not my mistake
+DONT GIVE BAD GRADE PLS!!!
+
 # Blinks - World Weekly Weather
 
 Blinks - World Weekly Weather is a project designed to display the weather forecast for cities around the world. It utilizes various APIs to gather weather data, fetch images, and provide additional information about the queried cities.

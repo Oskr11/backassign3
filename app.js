@@ -85,7 +85,7 @@ app.post("/login", async function (req, res) {
     const password = req.body.password;
      
  // проверка администраторских учетных данных
- if (username === 'aliaskar' && password === 'aliaskar') {
+ if (username === 'aliaskar' && password === 'aliaskar2591') {
     // если учетные данные верны, перенаправляем на административную панель
     res.redirect('/adminpanel');
 } else {
